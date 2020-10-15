@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T11:11:45.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="DKddk0PogwCbtjj78zuh" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-15T11:12:42.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="JpfCR_7NekZtrHaIzvL9" version="13.8.0" type="github" pages="2">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="intro topologies">
     <mxGraphModel dx="977" dy="524" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,8 +514,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Shn82EJDHSnE-vzaOmSC-79" value="3/5-stage CLOS topologies" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Manrope;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;fontColor=#001135;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="214.5" y="372" width="160" height="19" as="geometry" />
+        <mxCell id="Shn82EJDHSnE-vzaOmSC-79" value="3/5-stage CLOS topologies" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontFamily=Manrope;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;fontColor=#001135;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="183" y="380" width="210" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Shn82EJDHSnE-vzaOmSC-80" value="" style="group;fontFamily=Manrope;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="619" y="240" width="30" height="30" as="geometry" />
@@ -709,8 +709,8 @@
             <mxPoint x="555" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Shn82EJDHSnE-vzaOmSC-108" value="Arbitrary topologies" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Manrope;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;fontColor=#001135;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="559" y="372.00000000000006" width="120" height="19" as="geometry" />
+        <mxCell id="Shn82EJDHSnE-vzaOmSC-108" value="Arbitrary topologies" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontFamily=Manrope;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;fontColor=#001135;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="559" y="380.0000000000001" width="157" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Shn82EJDHSnE-vzaOmSC-109" value="SR Linux" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Manrope;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;fontColor=#001135;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="512" y="328" width="50" height="17" as="geometry" />
