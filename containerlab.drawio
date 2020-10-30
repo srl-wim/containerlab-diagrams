@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T15:39:14.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QUOjZhybXi9KHaS8Lvlx" version="13.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-30T20:37:12.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="J8T00qwkrAm7nPpWlg5f" version="13.8.0" type="github" pages="5">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="[0] intro topologies">
     <mxGraphModel dx="2052" dy="1149" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[3] topo_two_srl" id="eAvBe_fzjq8YIeLeimek">
-    <mxGraphModel dx="1710" dy="917" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="386" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Eo7WSLzE0l0r2pWy3q-W-0" />
         <mxCell id="Eo7WSLzE0l0r2pWy3q-W-1" parent="Eo7WSLzE0l0r2pWy3q-W-0" />
@@ -1318,7 +1318,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z03KqrskGdjK8Y2KNnLf-55" value="&lt;font color=&quot;#001135&quot;&gt;srl1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontFamily=Manrope;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="Eo7WSLzE0l0r2pWy3q-W-1">
+        <mxCell id="Z03KqrskGdjK8Y2KNnLf-55" value="&lt;font color=&quot;#001135&quot;&gt;srl2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontFamily=Manrope;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="Eo7WSLzE0l0r2pWy3q-W-1">
           <mxGeometry x="738" y="386" width="35" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Z03KqrskGdjK8Y2KNnLf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;endArrow=oval;endFill=1;startArrow=oval;startFill=1;strokeColor=#4BDD33;" edge="1" parent="Eo7WSLzE0l0r2pWy3q-W-1">
@@ -1343,7 +1343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3M-bL_YYp8rQwSpVQmah" name="[4] lab examples intro">
-    <mxGraphModel dx="1173" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="i4GkVUiIK65gIwDuufMs-0" />
         <mxCell id="i4GkVUiIK65gIwDuufMs-1" parent="i4GkVUiIK65gIwDuufMs-0" />
