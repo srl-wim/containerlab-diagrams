@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T13:36:41.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="mXi2JIT58dXd_uC8gwbL" version="13.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-02T14:22:32.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="4DIeUzCel2_WodnFOZz4" version="13.8.0" type="github" pages="6">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="[0] intro topologies">
     <mxGraphModel dx="2052" dy="1100" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1758,7 +1758,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zMfsiwInyX4btFOCjpXh-13" value="&lt;ol&gt;&lt;li&gt;Connections to&amp;nbsp;&lt;font face=&quot;Fira Code&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+Code&quot; style=&quot;font-size: 9px&quot;&gt;containerlab&lt;/font&gt;&amp;nbsp;(management) network&lt;br&gt;are not shown&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Manrope;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;fontStyle=0;fontColor=#98A2AE;" vertex="1" parent="hvis3t61AynnfQS_IO-h-1">
-          <mxGeometry x="412" y="494" width="301" height="50" as="geometry" />
+          <mxGeometry x="467" y="508" width="301" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
