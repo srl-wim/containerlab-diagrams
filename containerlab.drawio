@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T09:56:51.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ai2ONg9mzBjY6_eruU_D" version="13.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-11-03T09:57:17.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QWu4vzSrHYo9u768K5nR" version="13.8.0" type="github" pages="7">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="[0] intro topologies">
     <mxGraphModel dx="2052" dy="1100" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1764,7 +1764,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[6] srlceos01" id="Vml60_acqo9h_McOmTZR">
-    <mxGraphModel dx="1173" dy="629" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="524" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_SfWGTP9yZtPZ_r4THFv-0" />
         <mxCell id="_SfWGTP9yZtPZ_r4THFv-1" parent="_SfWGTP9yZtPZ_r4THFv-0" />
@@ -1790,7 +1790,7 @@
           <mxGeometry x="85" y="240" width="365" height="95" as="geometry" />
         </mxCell>
         <mxCell id="_SfWGTP9yZtPZ_r4THFv-9" value="veth&lt;font color=&quot;#bec8d2&quot;&gt;XXX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;align=center;fillColor=#4BDD33;strokeColor=none;" vertex="1" parent="_SfWGTP9yZtPZ_r4THFv-1">
-          <mxGeometry x="113.63" y="307.5" width="52.75" height="20" as="geometry" />
+          <mxGeometry x="113.63" y="307.5" width="52.75" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="_SfWGTP9yZtPZ_r4THFv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;endArrow=oval;endFill=1;startArrow=oval;startFill=1;strokeColor=#4BDD33;" edge="1" parent="_SfWGTP9yZtPZ_r4THFv-1" source="_SfWGTP9yZtPZ_r4THFv-6" target="_SfWGTP9yZtPZ_r4THFv-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1922,7 +1922,7 @@
           <mxGeometry x="346.75" y="385" width="43.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="_SfWGTP9yZtPZ_r4THFv-38" value="veth&lt;font color=&quot;#bec8d2&quot;&gt;XXX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;align=center;fillColor=#4BDD33;strokeColor=none;" vertex="1" parent="_SfWGTP9yZtPZ_r4THFv-1">
-          <mxGeometry x="342.13" y="307.5" width="52.75" height="20" as="geometry" />
+          <mxGeometry x="342.13" y="307.5" width="52.75" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="_SfWGTP9yZtPZ_r4THFv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;endArrow=oval;endFill=1;startArrow=oval;startFill=1;strokeColor=#4BDD33;" edge="1" parent="_SfWGTP9yZtPZ_r4THFv-1" source="_SfWGTP9yZtPZ_r4THFv-37" target="_SfWGTP9yZtPZ_r4THFv-38">
           <mxGeometry relative="1" as="geometry" />
