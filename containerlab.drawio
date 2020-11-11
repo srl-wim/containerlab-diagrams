@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T11:44:55.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="aElgJADxzNgJJEsszFxW" version="13.8.9-1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-11-11T15:04:44.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ZFZoQd24lkdDa2k8_ZU-" version="13.8.9-1" type="github" pages="11">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="[0] intro topologies">
     <mxGraphModel dx="2052" dy="1100" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1335,7 +1335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3M-bL_YYp8rQwSpVQmah" name="[4] lab examples intro">
-    <mxGraphModel dx="2052" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="i4GkVUiIK65gIwDuufMs-0" />
         <mxCell id="i4GkVUiIK65gIwDuufMs-1" parent="i4GkVUiIK65gIwDuufMs-0" />
@@ -1582,7 +1582,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="htnxkMslMp0vrS_UgLXZ" name="[5] topo_clos01">
-    <mxGraphModel dx="821" dy="440" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="821" dy="460" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hvis3t61AynnfQS_IO-h-0" />
         <mxCell id="hvis3t61AynnfQS_IO-h-1" parent="hvis3t61AynnfQS_IO-h-0" />
@@ -3308,7 +3308,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KzDWyAbjG5TQ5Q9En8ta" name="[10] two SRLs">
-    <mxGraphModel dx="2052" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TylJQL6FbQ9dKB25wqrR-0" />
         <mxCell id="TylJQL6FbQ9dKB25wqrR-1" parent="TylJQL6FbQ9dKB25wqrR-0" />
@@ -3440,6 +3440,9 @@
         </mxCell>
         <mxCell id="YWLoT3N2c0pSDhRtELLc-22" value="e1-1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=none;rotation=0;horizontal=1;fillColor=#98A2AE;" vertex="1" parent="TylJQL6FbQ9dKB25wqrR-1">
           <mxGeometry x="435" y="360.38" width="30" height="16.25" as="geometry" />
+        </mxCell>
+        <mxCell id="7hSv-wmCKR2SHhiSvmrS-0" value="&lt;font color=&quot;#001135&quot;&gt;Lab logical topology&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontFamily=Manrope;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="TylJQL6FbQ9dKB25wqrR-1">
+          <mxGeometry x="357" y="451" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
