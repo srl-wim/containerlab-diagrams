@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T20:35:17.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Ss3E9IryVMAZwFyVWwt4" version="13.10.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-12-01T20:35:59.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="fod0b3rbKMkZK61FfbT5" version="13.10.0" type="github" pages="13">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="[0] intro topologies">
     <mxGraphModel dx="2052" dy="1149" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3647,7 +3647,7 @@
         <mxCell id="77zvcUQ9RfesRhaRaiOU-21" value="eth2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=none;rotation=0;horizontal=1;fillColor=#98A2AE;" parent="jKErldjhx0TcRy9idgPq-1" vertex="1">
           <mxGeometry x="599" y="211.88" width="30" height="16.25" as="geometry" />
         </mxCell>
-        <mxCell id="77zvcUQ9RfesRhaRaiOU-22" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#98A2AE;fontColor=#98A2AE;endWidth=8.949011446409989;endSize=4.462903225806452;width=4.516129032258064;" parent="jKErldjhx0TcRy9idgPq-1" edge="1">
+        <mxCell id="77zvcUQ9RfesRhaRaiOU-22" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#98A2AE;endWidth=8.949011446409989;endSize=4.462903225806452;width=4.516129032258064;fillColor=#ffffff;strokeColor=none;" parent="jKErldjhx0TcRy9idgPq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="214" as="sourcePoint" />
             <mxPoint x="478" y="214" as="targetPoint" />
