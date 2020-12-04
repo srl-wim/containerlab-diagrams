@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T12:10:55.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WkNIOcjjEBn2hYXm2ySN" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T12:13:19.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="C1ESg1xciOyGunL4yS-0" version="13.10.8" type="github">
   <diagram id="VcJM1TmA4Ai2eObTNV3Y" name="[1]">
-    <mxGraphModel dx="2062" dy="1155" grid="0" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#4d5766" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="550" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#4d5766" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,8 +307,8 @@
         <mxCell id="7C8ybS8YBStuCCjqtTJ8-66" value="&lt;span style=&quot;font-size: 10px&quot;&gt;ethernet-1/1.0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=none;rotation=0;horizontal=1;fillColor=#98A2AE;" vertex="1" parent="1">
           <mxGeometry x="488" y="671.88" width="75" height="16.25" as="geometry" />
         </mxCell>
-        <mxCell id="7C8ybS8YBStuCCjqtTJ8-67" value="192.168.0.1/31&lt;br&gt;2002::192.168.0.1/127" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSize=8;fontColor=#FFFFFF;align=right;strokeColor=none;rotation=0;horizontal=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#bec8d2;" vertex="1" parent="1">
-          <mxGeometry x="458" y="688.13" width="105" height="21.88" as="geometry" />
+        <mxCell id="7C8ybS8YBStuCCjqtTJ8-67" value="192.168.0.1/31&lt;br style=&quot;font-size: 9px;&quot;&gt;2002::192.168.0.1/127" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSize=9;fontColor=#FFFFFF;align=right;strokeColor=none;rotation=0;horizontal=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#bec8d2;" vertex="1" parent="1">
+          <mxGeometry x="444" y="688.13" width="119" height="21.88" as="geometry" />
         </mxCell>
         <mxCell id="7C8ybS8YBStuCCjqtTJ8-68" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="563" y="645.01" width="70" height="70" as="geometry" />
@@ -355,8 +355,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7C8ybS8YBStuCCjqtTJ8-75" value="192.168.0.0/31&lt;br&gt;2002::192.168.0.0/127" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSize=8;fontColor=#FFFFFF;align=left;strokeColor=none;rotation=0;horizontal=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#bec8d2;" vertex="1" parent="1">
-          <mxGeometry x="263" y="688.13" width="105" height="21.88" as="geometry" />
+        <mxCell id="7C8ybS8YBStuCCjqtTJ8-75" value="192.168.0.0/31&lt;br style=&quot;font-size: 9px;&quot;&gt;2002::192.168.0.0/127" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSize=9;fontColor=#FFFFFF;align=left;strokeColor=none;rotation=0;horizontal=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#bec8d2;" vertex="1" parent="1">
+          <mxGeometry x="263" y="688.13" width="119" height="21.88" as="geometry" />
         </mxCell>
         <mxCell id="7C8ybS8YBStuCCjqtTJ8-76" value="Addressing and protocol configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontFamily=Manrope;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="285" y="765" width="257" height="21" as="geometry" />
@@ -367,8 +367,8 @@
             <mxPoint x="678" y="353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7C8ybS8YBStuCCjqtTJ8-78" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px ; color: rgb(255 , 255 , 255)&quot;&gt;lo0.0: 10.0.0.1/32&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px&quot;&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2002::10.0.0.1/128&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Fira Code;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
-          <mxGeometry x="166.38" y="598" width="130" height="24" as="geometry" />
+        <mxCell id="7C8ybS8YBStuCCjqtTJ8-78" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px; color: rgb(255, 255, 255);&quot;&gt;lo0.0: 10.0.0.1/32&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2002::10.0.0.1/128&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontFamily=Fira Code;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="166.38" y="598" width="145" height="25" as="geometry" />
         </mxCell>
         <mxCell id="7C8ybS8YBStuCCjqtTJ8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Manrope;fontSize=12;fontColor=#FFFFFF;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#124191;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -376,8 +376,8 @@
             <mxPoint x="598" y="645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7C8ybS8YBStuCCjqtTJ8-80" value="&lt;div style=&quot;text-align: center ; font-size: 8px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;lo0.0: 10.0.0.2/32&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2002::10.0.0.2/128&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Fira Code;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
-          <mxGeometry x="518" y="598" width="130" height="24" as="geometry" />
+        <mxCell id="7C8ybS8YBStuCCjqtTJ8-80" value="&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 9px;&quot;&gt;lo0.0: 10.0.0.2/32&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;text-align: left; font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2002::10.0.0.2/128&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontFamily=Fira Code;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="503" y="598" width="145" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
