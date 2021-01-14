@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T10:37:59.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="s2WmDmDICZsLZT8bmaCr" version="14.1.9" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-01-14T10:43:51.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="c4RLuhQj6inoQZMvxVCC" version="14.1.9" type="github" pages="14">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="[0] intro topologies">
     <mxGraphModel dx="2052" dy="1149" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1787,7 +1787,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="[6] srlceos01" id="Vml60_acqo9h_McOmTZR">
+  <diagram name="[6] srlceos01 (moved to sep file)" id="Vml60_acqo9h_McOmTZR">
     <mxGraphModel dx="2052" dy="1149" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D5766" math="0" shadow="0">
       <root>
         <mxCell id="_SfWGTP9yZtPZ_r4THFv-0" />
